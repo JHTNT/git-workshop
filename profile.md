@@ -3,4 +3,4 @@
 Name:
 Hobby:
 
-Workshop goal: Learn the basic Git workflow
+Workshop goal: Learn the basic Git
